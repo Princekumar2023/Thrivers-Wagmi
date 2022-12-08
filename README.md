@@ -1,1 +1,1 @@
-# Thrivers-Wagmi
+# Thrivers-Wagmi-Project
